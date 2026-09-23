@@ -1,0 +1,4 @@
+interface:
+  display_name: "讯航集运项目运营"
+  short_description: "维护讯航集运小程序、H5、管理后台与发布流程"
+  default_prompt: "请使用 $xunhang-project-ops 处理讯航集运项目任务。"
