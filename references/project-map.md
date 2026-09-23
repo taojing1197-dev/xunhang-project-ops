@@ -2,7 +2,7 @@
 
 ## Canonical paths
 
-- Project root: `/Users/liming/Desktop/共享文件夹/01-讯航集运`
+- Project root: the user-supplied project workspace
 - UniApp source: `微信支付宝小程序-H5/`
 - Admin source: `微信支付宝小程序-H5/admin/`
 - Related website: `jikgu-pro-网站/`
@@ -10,7 +10,7 @@
 - Database schema: `微信支付宝小程序-H5/docs/schema.sql`
 - Platform setup: `微信支付宝小程序-H5/docs/platform-config.md`
 
-`/Users/liming/Documents/ChatGPT/xunhang-mp-alipay` is compiled Alipay output, not source. Rebuild it from the UniApp project instead of editing it directly.
+Any separately copied `xunhang-mp-alipay` directory is compiled Alipay output, not source. Rebuild it from the UniApp project instead of editing it directly.
 
 ## Local commands
 

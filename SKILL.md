@@ -5,7 +5,7 @@ description: Maintain the local 讯航集运 project across its UniApp H5, WeCha
 
 # 讯航集运项目运营
 
-Use `/Users/liming/Desktop/共享文件夹/01-讯航集运` as the project root. The main application source is `微信支付宝小程序-H5/`.
+Use the project root supplied by the user or the current workspace. The main application source is `微信支付宝小程序-H5/`.
 
 Before editing:
 
